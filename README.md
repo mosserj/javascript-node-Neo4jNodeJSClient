@@ -1,4 +1,4 @@
-//NodeJS and neo4j Application
+//NodeJS and neo4j Application (CHECK out image attached)
 search, add, clear db, create 100k domains!
 results and associated IP's based on clicking on a domains
 
