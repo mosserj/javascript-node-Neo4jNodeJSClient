@@ -1,10 +1,10 @@
-//NodeJS and neo4j Application (CHECK out image attached)
-search, add, clear db, create 100k domains!
-results and associated IP's based on clicking on a domains
+//NodeJS and neo4j Application 
+
+Leveraging d3.js the domain to ip relationships from the graphical database get displayed to the client in a very cool way. (check out the image) Search, add, clear db, create 100k domains! 
+
+* this application was based off the opensource movies-javascript-bolt-master project and was modified
 
 ## Stack
-* this application was based off the opensource movies-javascript-bolt-master project and updated 
-* to display my neo4j Domain and their IP address relationships
 * [Neo4j Bolt JavaScript Driver](https://github.com/neo4j/neo4j-javascript-driver)
 * Neo4j
 * Frontend: ES6, jquery, bootstrap, [d3.js](http://d3js.org/)
